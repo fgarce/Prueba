@@ -1,0 +1,28 @@
+.div-der{
+    background-image: url(../img/honolulu.jpg);
+    background-size: cover;
+    height: 600px;
+}
+
+.card-group{margin-top: 1%;}
+
+.card-text{
+    margin-right: 10%;
+}
+
+.card-title{
+    margin-right: 10%;
+    margin-top: 10%;
+}
+
+.botones{
+    margin-right: 10%;
+}
+
+.conoce{
+    margin-top: 1%;
+}
+    
+.barra_abajo{
+    height: 80px;
+}
